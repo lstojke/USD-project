@@ -8,7 +8,7 @@ wykorzystaniem co najmniej 2 różnych algorytmów uczenia ze wzmocnieniem.
 Porównaj efektywność ich działania między sobą oraz z agentami podejmującymi
 losowe akcje. Zwizualizuj efekt działań agentów. Proszę wybrać środowiska i algorytmy wieloagentowe
 
-W celu zestawienia środowiska należy załadować zależności z pliku `requirements.txt`.
+W celu zestawienia środowiska należy załadować zależności z pliku `requirements.txt`. Polecaną wersją Pythona do projektu jest 3.7.9.
 ```
 python3 -m venv .venv
 source .venv/bin/activate
